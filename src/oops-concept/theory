@@ -1,0 +1,9 @@
+In object-oriented terminology, a class is a term that describes a group or collection of objects with common properties. In the same way that a blueprint exists before any houses are built from it, and a recipe exists before any cookies are baked from it, so does a class definition exist before any objects are created from it.
+A class definition describes what attributes its objects will have and what those objects will be able to do.
+Attributes are the characteristics that define an object; they are properties of the object.
+When you learn a programming language such as Java, you learn to work with two types of classes: those that have already been developed by the language’s creators and your own new, customized classes.
+An object is a specific, concrete instance of a class. When you create an object, you instantiate it.
+You can create objects from classes that you write and from classes written by other programmers, including Java’s creators. The values contained in an object’s properties
+
+
+Java can be run on a wide variety of computers and devices because it does not execute instructions on a computer directly. Instead, Java runs on a hypothetical computer known as the Java Virtual Machine (JVM). When programmers call the JVM hypothetical, they don’t mean it doesn’t exist. Instead, they mean it is not a physical entity created from hardware but is composed only of software. JVM is the heart of Java programs.
