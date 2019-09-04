@@ -4,8 +4,12 @@
 // There are three types of Constructor - default / parameterized / user-defined
 //A default constructor is created automatically by the Java compiler for any class you create whenever you do not write your own constructor.
 
+// Numeric fields are set to 0 (zero).
+// Character fields are set to Unicode ‘\u0000’.
+// Boolean fields are set to false.
+// Fields that are object references (for example, String fields) are set to null (or empty).
 
-class ConstructorClass {
+public class ConstructorClass {
 
 int quantity;
 String product;
@@ -37,19 +41,11 @@ ConstructorClass(int quantity, String product, double price){      // parameteri
         System.out.println("This is constructor with one parameter x & product and intialize quantity, product and price");
 }
 
-// This constructor will execute before each and every constructor 
+// This constructor will execute before each and every constructor
 {
-        this.location = "NY";
-        this.shopNumber = 1324;
+        location = "NY";
+        shopNumber = 1324;
         System.out.println("The shop number " + shopNumber+ " is located at " + location);
-}
-
-public static void main(String args[]){
-  ConstructorClass ccone = new ConstructorClass();
-  ConstructorClass cctwo = new ConstructorClass(12);
-  ConstructorClass ccthree = new ConstructorClass(12, "imacs");
-  ConstructorClass ccfour = new ConstructorClass(12, "imacs", 189181829.82);
-
 }
 
 
