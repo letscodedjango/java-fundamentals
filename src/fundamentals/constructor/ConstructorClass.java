@@ -8,7 +8,7 @@
 // Character fields are set to Unicode ‘\u0000’.
 // Boolean fields are set to false.
 // Fields that are object references (for example, String fields) are set to null (or empty).
-
+package fundamentals.constructor;
 public class ConstructorClass {
 
 int quantity;
