@@ -1,3 +1,5 @@
+package fundamentals.datatypesvariable;
+
 // Here we gonna discuss different types of variables a java language have
 
 // So broadly there are 3 types of variables in java

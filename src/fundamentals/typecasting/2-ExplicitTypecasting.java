@@ -2,7 +2,7 @@
 // Explicit typecasting is nothing but storing the value of higher datatype variable into lower datatype variables
 // In simple type conversion of higher datatype to lower datatype
 // It is also known as NARROWING conversion
-
+package fundamentals.typecasting;
 class TypeCastExplicit {
 
 public void typecastExplicitly(){

@@ -2,7 +2,7 @@
 // Implicit typecasting is nothing but storing the value of lower datatype variable into higher datatype variables
 // In simple type conversion of lower datatype to higher datatype
 // It is also known as WIDENING conversion
-
+package fundamentals.typecasting;
 class TypeCastImplicit {
 
 public void typecastImplicitly(){

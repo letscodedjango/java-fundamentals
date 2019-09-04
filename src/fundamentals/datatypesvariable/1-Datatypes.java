@@ -8,7 +8,7 @@
 // Floating point numbers again classified as - float And double
 // Non-numeric classified as - char & boolean
 
-
+package fundamentals.datatypesvariable;
 class DataTypes {
 
 // Primitive data types

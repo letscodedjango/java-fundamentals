@@ -1,5 +1,6 @@
-// Here we gonna discuss about the scope of the different variables types
+package fundamentals.datatypesvariable;
 
+// Here we gonna discuss about the scope of the different variables types
 
 // Instance & static variables scoping
 class VariablesScope {
